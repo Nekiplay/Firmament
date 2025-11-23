@@ -31,12 +31,6 @@
         "client": [
             "moe.nea.firmament.Firmament::onClientInitialize"
         ],
-        "rei_client": [
-            "moe.nea.firmament.compat.rei.FirmamentReiPlugin"
-        ],
-		"rei_common": [
-			"moe.nea.firmament.compat.rei.FirmamentReiCommonPlugin"
-		],
         "modmenu": [
             "moe.nea.firmament.compat.modmenu.FirmamentModMenuPlugin"
         ],
